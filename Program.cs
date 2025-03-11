@@ -15,7 +15,7 @@ Bienvenid@ al sistema de tareas, porfavor seleccione una opcion
     4. Editar tarea
     5. Eliminar tarea <Si elimina una tarea principal, eliminará las subtareas>
     6. Completar tarea
-    7. Salir del sistema
+    7. Salir del sistema.
     ");
     try
     {
